@@ -1,0 +1,29 @@
+body {
+  margin-top: 48px;
+}
+
+.request-lydia {
+  margin-top: 64px;
+
+  h1 {
+    font-size: 26px;
+  }
+
+  &--btn-wrapper {
+    margin-top: 36px !important;
+  }
+}
+
+#request-lydia {
+  &--success {
+    display: none;
+  }
+}
+
+.admin-lydia {
+  width: 80%;
+
+  h1 {
+    font-size: 26px;
+  }
+}
